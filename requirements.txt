@@ -20,7 +20,7 @@ pytz==2017.2
 requests==2.18.4
 simplejson==3.11.1
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 django-cors-headers==2.1.0
 sorl-thumbnail==12.4.1
 sorl-thumbnail-serializer-field==0.2.1
